@@ -1,0 +1,16 @@
+{
+  "name": "lutgrabtools",
+  "version": "1.0.0",
+  "description": "luttools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index",
+    "start": "node index"
+  },
+  "author": "vuejs@vip.qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "puppeteer": "^1.14.0"
+  }
+}
